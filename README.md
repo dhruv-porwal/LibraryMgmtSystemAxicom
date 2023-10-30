@@ -1,3 +1,3 @@
-SQLite + Android - Complete Tutorial
+SQLite + Android - To Create a Library Management System
 
-Note: Video tutorials will be available on my Youtube channel (Stevdza-San) soon.
+This has been develope by Dhruv.
